@@ -2,7 +2,7 @@
 - 👀 I’m interested in - Full Stack Development
 - 🌱 I’m currently learning - DSA
 - 🎓 I’m pursuing B.Tech VIIT,Duvvada,AP
-# Mukesh-Sai
+# P Mukesh Sai
 
 
 # 💻 Tech Stack:
